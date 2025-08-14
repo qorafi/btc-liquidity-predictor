@@ -1,8 +1,9 @@
-# btc-liquidity-predictor
+# BTC Liquidity Predictor
 
 
 
-btc-liquidity-predictor/
+
+```
 │
 ├── .env                          # API keys and config
 ├── package.json                  # NPM dependencies & scripts
@@ -39,3 +40,4 @@ btc-liquidity-predictor/
 │
 └── scripts/                      # Utility scripts (optional)
     └── cron.sh                   # Example cronjob runner
+```
